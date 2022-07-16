@@ -4,3 +4,4 @@ About_us_final.psd filter=lfs diff=lfs merge=lfs -text
 Rooms_final.psd filter=lfs diff=lfs merge=lfs -text
 gallery_final.psd filter=lfs diff=lfs merge=lfs -text
 home_final.psd filter=lfs diff=lfs merge=lfs -text
+psd/FINAL[[:space:]]dining.psd filter=lfs diff=lfs merge=lfs -text
